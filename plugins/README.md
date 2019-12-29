@@ -9,7 +9,6 @@ Specially search highlight, some useful plugins for roundcube.
 
 * [SearchHighlight](search_highlight): Very simple plugin to highlight the words searched in the messages displayed.
 * [IdentiTeam](identiteam): Create new users' identities and fancy signatures, using data from an LDAP server and complex HTML or text templates.
-* [SieveVacation](vacation_sieve): Create or update a sieve script on the server to handle vacation.
 
 The search_highlight are configless plugin, rest will need setup and customizations.
 
