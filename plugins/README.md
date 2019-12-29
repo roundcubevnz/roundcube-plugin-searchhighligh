@@ -1,5 +1,5 @@
 
-# Roundcube Plugin: SearchHighlight, SieveVacation and IdentiTeam
+# Roundcube Plugin: SearchHighlight, and IdentiTeam
 
 <a href="https://github.com/roundcubevnz/roundcube-plugin-searchhighligh/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/tag/roundcubevnz/roundcube-plugin-searchhighligh?style=flat-square&logo=github"></a>
 <a href="https://github.com/roundcubevnz/roundcube-plugin-searchhighligh/blob/master/COPYING"><img alt="Project license" src="https://img.shields.io/github/license/roundcubevnz/roundcube-plugin-searchhighligh?style=flat-square&"></a>
